@@ -1,0 +1,72 @@
+h1,
+h2,
+h3{
+  color: rgb(243, 113, 199);
+}
+
+p{
+  color: rgb(163, 153, 250);
+}
+
+body{
+  color: #B3D3F9;
+  background-image: url("https://images5.alphacoders.com/533/thumb-1920-533923.jpg")   ;
+
+}
+
+a{
+  color: #B3D3F9;
+  text-decoration: none;
+}
+
+.container{
+  background-color: white;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  width: 600px;
+  text-align: center;
+  margin: 20px auto;
+
+}
+
+img{
+height: 435px;
+width: 300px;
+}
+
+#logo{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+
+.bouton{
+  background-color: #819DFE;
+  color: #B3D3F9;
+  font-weight: 500px;
+  padding: 10px;
+  border-radius 4px;
+}
+
+ul {
+list-style:none;
+display:inline-block
+    list-style-type: disc;
+  margin-before: 1em;
+    margin-after: 1em;
+   margin-start: 0px;
+   margin-end: 0px;
+   padding-start: 40px;
+   line-height: 1.6em;
+}
+
+li {
+
+float: center;
+padding: 0;
+text-align: center;
+
+}
+/* Here goes your CSS */
